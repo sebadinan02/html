@@ -1,0 +1,21 @@
+li{
+    display: inline-block; list-style: armenian; color:black; margin: 18;
+
+}
+.gauche{
+    text-align: right; margin-right: 150px;
+}
+img{
+    float: right; margin-right: 155px; width: 900px; height: 200px;
+}
+h1{
+    font-size:20px;
+    
+}
+.droit{
+    float: left; margin-left: 90px;  width: 360px; height: 200px;
+}
+.justifie{
+    text-align: justify;
+  margin-right: 1000;
+}
